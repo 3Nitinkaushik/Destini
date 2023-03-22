@@ -1,4 +1,5 @@
 # destini
 
-A Flutter project.
-An story app which depends on the choices you make.
+An story app build using oops principles, the game move forward with the stroy that depends on selection of your choice
+
+
